@@ -45,7 +45,8 @@ body {
 #sudo{
   height: 0px;
   width: 100%;
-  background-color: red;
+  background-color: rgba(233, 230, 230, 0.322);
+  border-radius: 10px;
 }
 #box:hover #sudo{
   height: 100px;
